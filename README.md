@@ -23,7 +23,7 @@ The purpose of this election audit analysis is to determine the winner of a US C
   * Winning Vote Count: 272,892
   * Winning Percentage: 73.8%
 
-Output of Python Code
+Command Line Output of Python Code
 :-------------------------:
 ![election_results](https://user-images.githubusercontent.com/85706721/126080344-cf284302-fad9-4705-a88f-cb1bb555ab35.png)
 
